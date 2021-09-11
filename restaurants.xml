@@ -1,26 +1,27 @@
-<List name="restaurants">
-		<p>
+<List>
+	<Title>restaurants</Title>
+		<item1>
 		<id Label="id">0</id>
 		<name Label="name">Kabana</name>
 		<cuisine Label="cuisine">Indian</cuisine>
 		<city Label="city">Berkeley</city>
 		<hours Label="open">12pm</hours>
 		<hours Label="close">9pm</hours>
-		</p>
-		<p>
+		</item1>
+		<item2>
 		<id Label="id">1</id>
 		<name Label="name">Cheeseboard</name>
 		<cuisine Label="cuisine">Italian</cuisine>
 		<city Label="city">Berkeley</city>
 		<hours Label="open">11am</hours>
 		<hours Label="close">8pm</hours>
-		</p>
-		<p>
+		</item2>
+		<item3>
 		<id Label="id">2</id>
 		<name Label="name">The Butcher's Son</name>
 		<cuisine Label="cuisine">American</cuisine>
 		<city Label="city">Berkeley</city>
 		<hours Label="open">9am</hours>
 		<hours Label="close">3pm</hours>
-		</p>
+		</item3>
 	</List>
