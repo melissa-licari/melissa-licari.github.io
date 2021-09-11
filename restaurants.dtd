@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD for simple list -->
+<!-- list metadata -->
+
+<!ELEMENT List>
+<!ELEMENT Title (#PCDATA)>
+
+<!ELEMENT item1 (id, name, cuisine, city, hours, hours)>
+<!ATTLIST id Label CDATA "id" (#PCDATA)>
+<!ATTLIST name Label CDATA "name" (#PCDATA)>
+<!ATTLIST cuisine Label CDATA "cuisine" (#PCDATA)>
+<!ATTLIST city Label CDATA "city" (#PCDATA)>
+<!ATTLIST hours Label CDATA "open" (#PCDATA)>
+<!ATTLIST hours Label CDATA "close" (#PCDATA)>
+
+<!ELEMENT item2 (id, name, cuisine, city, hours, hours)>
+<!ATTLIST id Label CDATA "id" (#PCDATA)>
+<!ATTLIST name Label CDATA "name" (#PCDATA)>
+<!ATTLIST cuisine Label CDATA "cuisine" (#PCDATA)>
+<!ATTLIST city Label CDATA "city" (#PCDATA)>
+<!ATTLIST hours Label CDATA "open" (#PCDATA)>
+<!ATTLIST hours Label CDATA "close" (#PCDATA)>
+
+<!ELEMENT item3 (id, name, cuisine, city, hours, hours)>
+<!ATTLIST id Label CDATA "id" (#PCDATA)>
+<!ATTLIST name Label CDATA "name" (#PCDATA)>
+<!ATTLIST cuisine Label CDATA "cuisine" (#PCDATA)>
+<!ATTLIST city Label CDATA "city" (#PCDATA)>
+<!ATTLIST hours Label CDATA "open" (#PCDATA)>
+<!ATTLIST hours Label CDATA "close" (#PCDATA)>
